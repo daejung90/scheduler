@@ -8,6 +8,7 @@ function Form (props) {
     const [student, setStudent] = useState(props.student || "");
     const [interviewer, setInterviewer] = useState(props.interviewer || null);
     const [error, setError] = useState("");
+    
 
     const reset = function () {
         setStudent("");
@@ -43,6 +44,7 @@ function Form (props) {
               placeholder="Enter Student Name"
               value={student}
               onChange={(event) => setStudent(event.target.value)}
+              data-testid="student-name-input"
             />
           </form>
           <section className="appointment__validation">{error}</section>
