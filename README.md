@@ -1,4 +1,5 @@
 # Interview Scheduler
+Interview Scheduler is an app where an user can create, edit, delete interviews appointments.
 
 ## Setup
 
