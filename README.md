@@ -34,12 +34,16 @@ Once you have the database setup and the scheduler-api server running, run the f
 
 ## Preview
 
+(https://github.com/daejung90/scheduler/blob/master/public/images/Scheduler%20app.png)
+(https://github.com/daejung90/scheduler/blob/master/public/images/Scheduler%202%20app.png)
+(https://github.com/daejung90/scheduler/blob/master/public/images/Scheduler%201%20app.png)
+
 
 
 ## Dependencies
 
-Axios
-Classnames
+* Axios
+* Classnames
 Normalize.css
 React
 React-dom
