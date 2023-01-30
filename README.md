@@ -7,6 +7,8 @@ Install dependencies with `npm install`.
 
 ## Running Webpack Development Server
 
+* Package.json set up to run in M2 chip machine. In case you are running in other system please delete the ```-openssl-legacy-provider``` before run the app.
+
 ```sh
 npm start
 ```
