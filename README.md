@@ -34,9 +34,10 @@ Once you have the database setup and the scheduler-api server running, run the f
 
 ## Preview
 
-(https://github.com/daejung90/scheduler/blob/master/public/images/Scheduler%20app.png)
-(https://github.com/daejung90/scheduler/blob/master/public/images/Scheduler%202%20app.png)
-(https://github.com/daejung90/scheduler/blob/master/public/images/Scheduler%201%20app.png)
+!["screenshot of scheduler features"](https://github.com/daejung90/scheduler/blob/master/public/images/Scheduler%20app.png?raw=true)
+!["screenshot of scheduler features"](https://github.com/daejung90/scheduler/blob/master/public/images/Scheduler%202%20app.png?raw=true)
+!["screenshot of scheduler features"](https://github.com/daejung90/scheduler/blob/master/public/images/Scheduler%201%20app.png?raw=true)
+
 
 
 
@@ -44,28 +45,24 @@ Once you have the database setup and the scheduler-api server running, run the f
 
 * Axios
 * Classnames
-Normalize.css
-React
-React-dom
-React-scripts
-Babel/core
-Storybook/addon-actions
-Storybook/addon-backgrounds
-Storybook/addon-links
-Storybook/addons
-Storybook/react
-Testing-library/jest-dom
-Testing-library/react
-Testing-library/react-hooks
-Babel-loader
-Node-sass
-Prop-types
-React-test-renderer
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
+* Normalize.css
+* React
+* React-dom
+* React-scripts
+* Babel/core
+* Storybook/addon-actions
+* Storybook/addon-backgrounds
+* Storybook/addon-links
+* Storybook/addons
+* Storybook/react
+* Testing-library/jest-dom
+* Testing-library/react
+* Testing-library/react-hooks
+* Babel-loader
+* Node-sass
+* Prop-types
+* React-test-renderer
+* Footer
 
 ## Project Stacks
 
